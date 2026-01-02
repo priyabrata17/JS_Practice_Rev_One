@@ -1,0 +1,26 @@
+.box {
+    background-color: white;
+    color: black;
+    height: 500px;
+    width: 100%;
+}
+
+.boxDark {
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 100%;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+.dark {
+    background-color: black;
+    color: white;
+}
+.green {
+    background-color: green;
+    color: white;
+}

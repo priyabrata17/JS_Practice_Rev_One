@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+.headingClass {
+    background-color: #484747;
+    color: #f4d106;
+    padding: 5px 0 5px 0;
+}
+#para {
+    color: white;
+    background-color: black;
+}
+.boxes {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.box {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.boxTwo {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.paraTwo {
+    color: #f4d106;
+}
+.paraTwoCopy {
+    background-color: #990000;
+}
+#paraTwoId {
+    border-radius: 5px;
+    padding: 5px;
+}

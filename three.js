@@ -41,3 +41,12 @@ function ceilMethod() {
   document.write(`Random = ${f} --- Type: ${typeof f}`);
   document.write("<br>");
 }
+
+function dateMethod() {
+  let newDate = new Date();
+  let newDateString = newDate.toDateString();
+  document.write(`newDate = ${newDate}`);
+  document.write("<br>");
+  document.write(`newDateString = ${newDateString}`);
+  document.write("<br>");
+}
